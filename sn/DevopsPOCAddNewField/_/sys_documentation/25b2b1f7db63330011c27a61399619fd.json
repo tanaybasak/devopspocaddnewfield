@@ -1,0 +1,23 @@
+{
+  "element": "u_devopsstate",
+  "help": null,
+  "hint": null,
+  "label": "DevopsState",
+  "language": "en",
+  "name": "kb_knowledge",
+  "plural": "DevopsStates",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-04 14:25:28",
+  "sys_id": "25b2b1f7db63330011c27a61399619fd",
+  "sys_mod_count": 0,
+  "sys_name": "DevopsState",
+  "sys_package": "0612b9b7db63330011c27a6139961900",
+  "sys_policy": null,
+  "sys_scope": "0612b9b7db63330011c27a6139961900",
+  "sys_update_name": "sys_documentation_kb_knowledge_u_devopsstate_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-04 14:25:28",
+  "url": null,
+  "url_target": null
+}
